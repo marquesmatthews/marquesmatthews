@@ -21,29 +21,10 @@ I'm an aspiring IT Support professional with hands-on experience building labs i
 - Git & GitHub
 
 ## 📂 IT Projects
-
-### 🎫 osTicket Help Desk Lab
-- Installed and configured osTicket
-- Created users, agents, and departments
-- Managed help desk tickets
-- Assigned and resolved support requests
-- Documented the ticket lifecycle
-
-### ☁️ Microsoft Azure Labs
-- Created Azure Virtual Machines
-- Connected using Remote Desktop
-- Configured networking and firewall rules
-- Tested VM communication
-
-### 🔐 Identity & Access Management
-- Configured Multi-Factor Authentication (MFA)
-- Created and managed user accounts
-- Assigned roles and permissions
-- Practiced access control and identity security
-
-## 🎯 Career Goal
-
-I'm actively seeking an entry-level Help Desk or IT Support position where I can apply my technical skills, continue learning, and grow into Systems Administration and Cybersecurity.
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/marquesmatthews/osTicket-Prerequisites-and-Installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle
 
 ## 📫 Connect with Me
 
