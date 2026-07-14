@@ -1,18 +1,51 @@
-<h1>Hi, I'm Marques an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+# Hi, I'm Marques 👋
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+## 💻 IT Support | Help Desk | Aspiring System Administrator
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+I'm an aspiring IT Support professional with hands-on experience building labs in Azure and Windows environments. I enjoy troubleshooting technical issues, supporting users, and learning new technologies through practical projects.
 
-<h2>🤳Connect with me:</h2>
+## 🛠️ Technical Skills
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- Windows 10 & Windows Server
+- Active Directory
+- Azure Virtual Machines
+- Microsoft Azure
+- osTicket Help Desk
+- PowerShell (Basic)
+- Remote Desktop (RDP)
+- DNS & DHCP
+- Network Security Groups (NSGs)
+- TCP/IP Networking
+- Multi-Factor Authentication (MFA)
+- Identity & Access Management (IAM)
+- Git & GitHub
 
+## 📂 IT Projects
+
+### 🎫 osTicket Help Desk Lab
+- Installed and configured osTicket
+- Created users, agents, and departments
+- Managed help desk tickets
+- Assigned and resolved support requests
+- Documented the ticket lifecycle
+
+### ☁️ Microsoft Azure Labs
+- Created Azure Virtual Machines
+- Connected using Remote Desktop
+- Configured networking and firewall rules
+- Tested VM communication
+
+### 🔐 Identity & Access Management
+- Configured Multi-Factor Authentication (MFA)
+- Created and managed user accounts
+- Assigned roles and permissions
+- Practiced access control and identity security
+
+## 🎯 Career Goal
+
+I'm actively seeking an entry-level Help Desk or IT Support position where I can apply my technical skills, continue learning, and grow into Systems Administration and Cybersecurity.
+
+## 📫 Connect with Me
+
+- LinkedIn: (Add your LinkedIn URL)
+- GitHub: https://github.com/marquesmatthews
