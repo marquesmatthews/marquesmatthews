@@ -23,7 +23,7 @@ I'm an aspiring IT Support professional with hands-on experience building labs i
 ## 📂 IT Projects
 - <b>osTicket (Help Desk Ticketing System)</b>
   -https://github.com/marquesmatthews/osTicket-Prerequisities-and-Insyallation
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - https://github.com/marquesmatthews/osTicket-Prerequuisities-and-Installation/blob/main/README.md
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle
 
 ## 📫 Connect with Me
