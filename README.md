@@ -24,8 +24,7 @@ I'm an aspiring IT Support professional with hands-on experience building labs i
 - <b>osTicket (Help Desk Ticketing System)</b>
   -https://github.com/marquesmatthews/osTicket-Prerequisities-and-Insyallation
   - https://github.com/marquesmatthews/osTicket-Prerequuisities-and-Installation/blob/main/README.md
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle
-
+  - https://github.com/marquesmatthews/osTicket-Ticket-Lifecycle
 ## 📫 Connect with Me
 
 - LinkedIn: (Add your LinkedIn URL)
