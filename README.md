@@ -27,5 +27,5 @@ I'm an aspiring IT Support professional with hands-on experience building labs i
   - https://github.com/marquesmatthews/osTicket-Ticket-Lifecycle
 ## 📫 Connect with Me
 
-- LinkedIn: (Add your LinkedIn URL)
+- LinkedIn: https://www.linkedin.com/in/marques-matthews-602a46307/
 - GitHub: https://github.com/marquesmatthews
