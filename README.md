@@ -18,7 +18,7 @@ I'm an aspiring IT Support professional with hands-on experience building labs i
 - TCP/IP Networking
 - Multi-Factor Authentication (MFA)
 - Identity & Access Management (IAM)
-- Git & GitHub
+  
 
 ## 📂 IT Projects
 - <b>osTicket (Help Desk Ticketing System)</b>
